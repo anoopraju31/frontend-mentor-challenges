@@ -1,3 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit&display=swap');
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+:root {
+  /* Colors */
+  --light-gray: rgb(214, 226, 240);
+  --grayish-blue: rgb(123, 135, 157);
+  --dark-blue: rgb(31, 50, 81);
+
+  /* Typography */
+  --font-size: 15px;
+
+}
